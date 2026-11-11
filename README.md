@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Cloud-IDE-Developer-Workspace/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Cloud-IDE-Developer-Workspace?style=social" alt="GitHub stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Cloud-IDE-Developer-Workspace/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Cloud-IDE-Developer-Workspace?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Cloud-IDE-Developer-Workspace/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Cloud-IDE-Developer-Workspace?style=social" alt="GitHub forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Cloud-IDE-Developer-Workspace/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-CC0--1.0-lightgrey.svg?style=flat-square" alt="License" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -66,9 +66,9 @@ The sector exhibits **moderate-to-high concentration** at the infrastructure fou
 
 ## 🛠️ Open-Source GitHub Projects
 
-Curated list of the top active open-source repositories for self-hosted cloud IDEs, remote developer workspace servers, and browser-based coding frameworks. **Sorted in descending order by GitHub stars:**
+Curated list of the top active open-source repositories for self-hosted cloud IDEs, remote developer workspace servers, and browser-based coding frameworks. **Sorted in descending order by GitHub_Stars:**
 
-| Project | Stars | Description |
+| Project | GitHub_Stars | Description |
 |:---|:---|:---|
 | **[code-server](https://github.com/coder/code-server)** | [![Stars](https://img.shields.io/github/stars/coder/code-server?style=social&color=white)](https://github.com/coder/code-server/stargazers) | Run VS Code on any remote server, virtual machine, or Docker container, accessible directly via any web browser. Self-hosted alternative to GitHub Codespaces with full extension and terminal support. |
 | **[Daytona](https://github.com/daytonaio/daytona)** | [![Stars](https://img.shields.io/github/stars/daytonaio/daytona?style=social&color=white)](https://github.com/daytonaio/daytona/stargazers) | Open-source development environment manager and Cloud Development Environment (CDE) platform that automates provisioning isolated, standardized developer workspaces with a single command. |
